@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1514144180 source:c:\users\degui\documents\relianance\relianance\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1583732641 source:c:\users\degui\documents\relianance\relianance\src\main.cpp
+	"main.h"
+	<iostream>
+
+1583731790 c:\users\degui\documents\relianance\relianance\include\main.h
+
+1583731947 c:\users\degui\documents\relianance\relianance\src\data.cpp
+	"Data.h"
+
+1583731946 c:\users\degui\documents\relianance\relianance\include\data.h
+
+1583732146 source:c:\users\degui\documents\relianance\relianance\src\data.cpp
+	"DataSaver.h"
+
+1583731916 source:c:\users\degui\documents\relianance\relianance\src\gui.cpp
+	"GUI.h"
+
+1583731916 c:\users\degui\documents\relianance\relianance\include\gui.h
+
+1583732146 c:\users\degui\documents\relianance\relianance\src\datasaver.cpp
+	"DataSaver.h"
+
+1583732146 c:\users\degui\documents\relianance\relianance\include\datasaver.h
+
+1583732146 source:c:\users\degui\documents\relianance\relianance\src\datasaver.cpp
+	"DataSaver.h"
+
